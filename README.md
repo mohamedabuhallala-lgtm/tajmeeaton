@@ -741,3 +741,4 @@ __رؤيتنا على المدى البعيد__
 # الرخصة
 
 هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md).
+ 
